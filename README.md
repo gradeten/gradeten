@@ -1,6 +1,4 @@
 ## Hi there 👋 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradeten&langs_count=5&layout=compact&theme=dark)](https://github.com/gradeten/gradeten)
 ------------------------------
 
 <h3>💕 Interests 💕</h3>
