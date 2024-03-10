@@ -35,3 +35,7 @@
 <a href="https://velog.io/@gradeten"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gradeten"/></a>
 </span>
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradeten&langs_count=5&layout=compact&theme=dark)](https://github.com/gradeten/gradeten)
+
