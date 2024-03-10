@@ -18,7 +18,7 @@
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg">
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg)">
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg">
 </span>
 
 <br>
