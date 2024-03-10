@@ -30,3 +30,10 @@
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
 </span>
 
+<br>
+
+<h3>📫 Visit Me at 📫</h3>
+<span>
+<a href="https://velog.io/@gradeten"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gradeten"/></a>
+</span>
+
