@@ -4,12 +4,10 @@
 
 <h3>💕 Interests 💕</h3>
 <ul></ul>
-  <li><i>🎮 Game Programming with Unity</i></li>
-  <li><i>📱 App Programming with ReactNative</i></li>
-  <li><i>🖥️ Web Programming with HTML/CSS/JS</i></li>
+  <li>🎮 <i>Game Programming with Unity</i></li>
+  <li>📱 <i>App Programming with ReactNative</i></li>
+  <li>🖥️ <i>Web Programming with HTML/CSS/JS</i></li>
 </ul>
-
-<br>
 
 <h3>✨ Tech Stack ✨</h3>
 <span>
