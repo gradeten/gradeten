@@ -4,7 +4,7 @@
 <ul></ul>
   <li>🎮 <i>Game Programming with Unity</i></li>
   <li>📱 <i>App Programming with ReactNative</i></li>
-  <li>🖥️ <i>Web Programming with HTML/CSS/JS</i></li>
+  <li>🖥️ <i>Web Programming with React</i></li>
 </ul>
 
 <h3>✨ Tech Stack ✨</h3>
