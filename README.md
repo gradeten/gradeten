@@ -24,6 +24,8 @@
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
   <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg"> 
+  <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg">
 </span>
 
 <br>
