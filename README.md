@@ -35,18 +35,4 @@
 <a href="https://velog.io/@gradeten"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gradeten"/></a>
 </span>
 
-<br>
-
-<h3>👉 Github Status 👈</h3>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gradeten&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gradeten&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gradeten&show_icons=true" />
-</picture>
 
