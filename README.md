@@ -31,15 +31,14 @@
 
 <br>
 
-<h3>📖 Status 📖</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=izora01)](https://solved.ac/izora01)
-
-<br>
-
 <h3>📫 Visit Me at 📫</h3>
 <span>
 <a href="https://velog.io/@gradeten"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gradeten"/></a>
 </span>
 
+<br>
+
+<h3>📖 Status 📖</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=izora01)](https://solved.ac/izora01)
 
