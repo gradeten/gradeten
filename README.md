@@ -32,8 +32,7 @@
 <br>
 
 <h3>📖 Status 📖</h3>
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=izora01)](https://solved.ac/izora01)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=izora01)](https://solved.ac/izora01)
 
 <br>
 
